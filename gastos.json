@@ -1,0 +1,58 @@
+{
+  "gastos": [
+    {
+      "id": "b4df36",
+      "roommate": "Olga Spasić",
+      "descripcion": "Articulos de limpieza de hoy",
+      "monto": 15500
+    },
+    {
+      "id": "9ecc59",
+      "roommate": "Veli",
+      "descripcion": "Articulos de limpieza",
+      "monto": 15000
+    },
+    {
+      "id": "6071a9",
+      "roommate": "مرسانا نكو نظر",
+      "descripcion": "Articulos de limpieza",
+      "monto": 15000
+    },
+    {
+      "id": "b3ec6e",
+      "roommate": "Jara Lemoine",
+      "descripcion": "Articulos de limpieza",
+      "monto": 15001
+    },
+    {
+      "id": "696bd8",
+      "roommate": "Olga Spasić",
+      "descripcion": "Articulos de limpieza",
+      "monto": 14999
+    },
+    {
+      "id": "93b1f1",
+      "roommate": "Gligorije Vrhovac",
+      "descripcion": "Lo que sea",
+      "monto": 15000
+    },
+    {
+      "id": "d5eb3c",
+      "roommate": "مرسانا نكو نظر",
+      "descripcion": "Articulos de limpieza",
+      "monto": 30000
+    },
+    {
+      "id": "844314",
+      "roommate": "Roberto Flores",
+      "descripcion": "Articulos de limpieza",
+      "monto": 80000
+    },
+    {
+      "id": "961548",
+      "roommate": "Bozhedar Antkiv",
+      "descripcion": "Ingresa artículo o tipo de gasto.",
+      "monto": 5000
+    }
+  ]
+}

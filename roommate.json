@@ -1,0 +1,168 @@
+{
+  "roommates": [
+    {
+      "id": "a56345",
+      "nombre": "Heinz-Joachim Berner",
+      "debe": 50000,
+      "recibe": 460000
+    },
+    {
+      "id": "e4ce5b",
+      "nombre": "Bozhedar Antkiv",
+      "debe": 310000,
+      "recibe": 390000
+    },
+    {
+      "id": "2ebedf",
+      "nombre": "مرسانا نكو نظر",
+      "debe": 30000,
+      "recibe": 240000
+    },
+    {
+      "id": "27bbad",
+      "nombre": "Diana Armstrong",
+      "debe": 120000,
+      "recibe": 10000
+    },
+    {
+      "id": "15e4bb",
+      "nombre": "Olga Spasić",
+      "debe": 290000,
+      "recibe": 360000
+    },
+    {
+      "id": "1e6a7e8d-e5a3-4e32-b6d9-0d0db66cd716",
+      "nombre": "Veli"
+    },
+    {
+      "id": "ae1e0fe1-7ba4-4d80-8b4f-67df32d4d25d",
+      "nombre": "پارسا"
+    },
+    {
+      "id": "3d2382",
+      "nombre": "Jara Lemoine",
+      "debe": 140000,
+      "recibe": 170000
+    },
+    {
+      "id": "d1f15d",
+      "nombre": "Jeremy Novak",
+      "debe": 200000,
+      "recibe": 110000
+    },
+    {
+      "id": "3bbffe",
+      "nombre": "Luis Andre",
+      "debe": 160000,
+      "recibe": 340000
+    },
+    {
+      "id": "79f6f6",
+      "nombre": "Olivier Chow",
+      "debe": 30000,
+      "recibe": 430000
+    },
+    {
+      "id": "575d80",
+      "nombre": "Gligorije Vrhovac",
+      "debe": 460000,
+      "recibe": 150000
+    },
+    {
+      "id": "ccab8a",
+      "nombre": "Holly Gonzalez",
+      "debe": 180000,
+      "recibe": 130000
+    },
+    {
+      "id": "1923e3",
+      "nombre": "Roberto Flores",
+      "debe": 20000,
+      "recibe": 370000
+    },
+    {
+      "id": "bcbdb2",
+      "nombre": "Hunter Chen",
+      "debe": 440000,
+      "recibe": 470000
+    },
+    {
+      "id": "5546c0",
+      "nombre": "Anna Christiansen",
+      "debe": 50000,
+      "recibe": 490000
+    },
+    {
+      "id": "f0552d",
+      "nombre": "Efe Elçiboğa",
+      "debe": 430000,
+      "recibe": 40000
+    },
+    {
+      "id": "d3903b",
+      "nombre": "Alvin Meyer",
+      "debe": 230000,
+      "recibe": 390000
+    },
+    {
+      "id": "9ab4a6",
+      "nombre": "Julian Dufour",
+      "debe": 400000,
+      "recibe": 240000
+    },
+    {
+      "id": "0091b1",
+      "nombre": "Ljiljana Spasojević",
+      "debe": 430000,
+      "recibe": 130000
+    },
+    {
+      "id": "ec046a",
+      "nombre": "Indrajit Dhamdhame",
+      "debe": 450000,
+      "recibe": 30000
+    },
+    {
+      "id": "1f673d",
+      "nombre": "Ceyhan Yıldırım",
+      "debe": 40000,
+      "recibe": 180000
+    },
+    {
+      "id": "b6cd1d",
+      "nombre": "Onur Özdenak",
+      "debe": 260000,
+      "recibe": 60000
+    },
+    {
+      "id": "db871f",
+      "nombre": "David Cooper",
+      "debe": 190000,
+      "recibe": 410000
+    },
+    {
+      "id": "c51f8b",
+      "nombre": "Natalia Jović",
+      "debe": 70000,
+      "recibe": 70000
+    },
+    {
+      "id": "172688",
+      "nombre": "Ivo Nolte",
+      "debe": 90000,
+      "recibe": 340000
+    },
+    {
+      "id": "4e77b2",
+      "nombre": "پوریا قاسمی",
+      "debe": 250000,
+      "recibe": 110000
+    },
+    {
+      "id": "b44f11",
+      "nombre": "Raúl Guerrero",
+      "debe": 290000,
+      "recibe": 120000
+    }
+  ]
+}
